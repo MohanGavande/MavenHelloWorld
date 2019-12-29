@@ -8,4 +8,4 @@ After that,
 then `mvn package`
 then after the build is complete, run  `java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App`
 
-This is .jar build with no test cases. Also, hello world only
+This is .jar build with no test cases.
